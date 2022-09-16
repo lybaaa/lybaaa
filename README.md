@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, i'm lybaaa! 
+###  👋, Hey, i'm lybaaa! 
 #### 📫 Contact:
   
           Discord:lybaaa#0010
