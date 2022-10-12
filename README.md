@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm lybaaa</h1>
 <h3 align="center">I am developer in Poland</h3>
 
-- 🔭 I’m currently working on **LS RolePlay and Advancemc.pl**
-
 - 📫 How to reach me **lybaaa37@gmail.com**
 
 - ⚡ Fun fact **I'm stupid :]**
