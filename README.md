@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lybaaa</h1>
-<h3 align="center"> *hi there!**I'm a freelance Front-End💸 </h3>
+<h3 align="center"> **hi there!**I'm a freelance Front-End💸 </h3>
 
 - 📫 How to reach me **lybaaa37@gmail.com**
 
